@@ -1,0 +1,18 @@
+{
+  "id": "space-datapad-theme",
+  "title": "Space Datapad Theme",
+  "description": "A custom sci-fi datapad CSS theme for Foundry VTT journals, Monk's Enhanced Journal, and chat.",
+  "version": "1.0.0",
+  "authors": [
+    {
+      "name": "Spartan129"
+    }
+  ],
+  "compatibility": {
+    "minimum": "11",
+    "verified": "11"
+  },
+  "styles": [
+    "styles/space-datapad-theme.css"
+  ]
+}
