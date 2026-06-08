@@ -22,7 +22,7 @@ This module packages a standalone CSS stylesheet so it can be enabled directly t
 
 Designed for:
 
-- Foundry VTT v11
+- Foundry VTT v11 and V13
 - Monk's Enhanced Journal
 
 The CSS may also work on later Foundry versions, but selectors can change between Foundry releases. If using Foundry v12 or v13, test journal editing and chat display after enabling the module.
