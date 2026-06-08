@@ -3,7 +3,9 @@
 A custom sci-fi datapad visual theme for Foundry VTT journals, Monk's Enhanced Journal, and chat.
 
 This module packages a standalone CSS stylesheet so it can be enabled directly through Foundry VTT's **Manage Modules** screen. It does **not** require the old Custom CSS module.
+
 ![Space Datapad Theme preview](assets/DatapadShowcase.png)
+
 ## Features
 
 - Sci-fi datapad styling for journal reading views
@@ -13,7 +15,9 @@ This module packages a standalone CSS stylesheet so it can be enabled directly t
 - Sidebar cleanup for Monk's Enhanced Journal
 - Chat panel, message, dice roll, and input styling
 - Edit-mode safety resets to keep TinyMCE and ProseMirror readable
+  
 ![Space Datapad Theme preview2](assets/Showcase.png)
+
 ## Compatibility
 
 Designed for:
