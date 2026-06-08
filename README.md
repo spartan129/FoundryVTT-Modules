@@ -13,7 +13,7 @@ This module packages a standalone CSS stylesheet so it can be enabled directly t
 - Sidebar cleanup for Monk's Enhanced Journal
 - Chat panel, message, dice roll, and input styling
 - Edit-mode safety resets to keep TinyMCE and ProseMirror readable
-
+![Space Datapad Theme preview2](assets/Showcase.png)
 ## Compatibility
 
 Designed for:
